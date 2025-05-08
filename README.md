@@ -1,4 +1,5 @@
 # MMDS-EndtermProject
+Dimensionality Reduction – SVD, Clustering – CURE and Recommender Systems - Collaborative Filtering
 
 ### Product rating data set: ratings2k.csv
 
